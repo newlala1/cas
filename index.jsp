@@ -79,4 +79,7 @@ function logout(){
 			<iframe 
 </body>
 </html>
-stepone	
+
+step1
+step2
+
